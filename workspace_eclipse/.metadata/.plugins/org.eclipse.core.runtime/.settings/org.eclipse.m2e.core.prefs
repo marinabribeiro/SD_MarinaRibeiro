@@ -1,2 +1,2 @@
-eclipse.m2.downloadJavadoc=true
+eclipse.m2.downloadSources=false
 eclipse.preferences.version=1
